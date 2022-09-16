@@ -1,0 +1,1 @@
+from .get_component_predict import get_component
