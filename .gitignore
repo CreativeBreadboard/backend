@@ -1,0 +1,5 @@
+*.jpg
+*.jpeg
+*.JPG
+__pycache__
+mock_data
